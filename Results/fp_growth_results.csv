@@ -1,0 +1,97 @@
+support,itemsets
+0.20888,Milk
+0.15073,Juice
+0.14961,Potato
+0.14961,Dal
+0.1495,Onion
+0.1492,Curd
+0.1492,Rice
+0.1479,Oil
+0.11836,"Onion, Potato"
+0.11829,"Dal, Rice"
+0.09552,Butter
+0.09495,Bread
+0.09431,Apple
+0.09402,Orange
+0.09363,Tomato
+0.0936,Banana
+0.09337,Soap
+0.09337,Cake
+0.09324,Tea
+0.0932,Chocolate
+0.09295,Ghee
+0.09295,Yogurt
+0.09289,Chips
+0.09285,Biscuit
+0.09283,Toothpaste
+0.09278,Shampoo
+0.09263,Sugar
+0.09226,Atta
+0.09151,Salt
+0.06485,"Bread, Milk"
+0.06453,"Butter, Milk"
+0.0634,"Curd, Milk"
+0.06282,"Milk, Sugar"
+0.06271,"Milk, Tea"
+0.06267,"Milk, Yogurt"
+0.06258,"Dal, Oil"
+0.06251,"Bread, Butter"
+0.06246,"Onion, Tomato"
+0.06227,"Curd, Onion"
+0.06217,"Potato, Tomato"
+0.06217,"Oil, Rice"
+0.06207,"Biscuit, Juice"
+0.06204,"Curd, Potato"
+0.06172,"Cake, Juice"
+0.06133,"Chips, Juice"
+0.06132,"Curd, Yogurt"
+0.06126,"Apple, Banana"
+0.06124,"Dal, Ghee"
+0.06108,"Apple, Orange"
+0.06101,"Ghee, Rice"
+0.06098,"Chocolate, Juice"
+0.06086,"Banana, Orange"
+0.06076,"Bread, Butter, Milk"
+0.06062,"Biscuit, Cake"
+0.06059,"Onion, Potato, Tomato"
+0.06036,"Sugar, Tea"
+0.06018,"Shampoo, Soap"
+0.06006,"Oil, Salt"
+0.05976,"Chips, Chocolate"
+0.0597,"Atta, Oil"
+0.05964,"Shampoo, Toothpaste"
+0.05956,"Soap, Toothpaste"
+0.0595,"Dal, Oil, Rice"
+0.05941,"Dal, Ghee, Rice"
+0.05928,"Apple, Banana, Orange"
+0.05913,"Curd, Onion, Potato"
+0.05891,"Atta, Salt"
+0.0588,"Biscuit, Cake, Juice"
+0.05858,"Milk, Sugar, Tea"
+0.05848,"Curd, Milk, Yogurt"
+0.05819,"Chips, Chocolate, Juice"
+0.05798,"Shampoo, Soap, Toothpaste"
+0.05706,"Atta, Oil, Salt"
+0.03674,Cheese
+0.03666,Carrot
+0.03664,Watermelon
+0.03653,Bun
+0.03641,Mango
+0.03637,Dishwash Liquid
+0.03631,Rusk
+0.03615,Brinjal
+0.03615,Grapes
+0.03606,Detergent
+0.03603,Floor Cleaner
+0.03603,Spinach
+0.03596,Cauliflower
+0.0359,Coffee
+0.03581,Poha
+0.0357,Peas
+0.03568,Pomegranate
+0.03554,Pineapple
+0.03554,Cabbage
+0.03545,Papaya
+0.03538,Beans
+0.03533,Toothbrush
+0.03456,Guava
